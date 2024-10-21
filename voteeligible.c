@@ -8,4 +8,8 @@ void main()
     {
         printf("Person is eligible to vote ");
     }
-    }
+    else
+{
+printf("Person is not eligible to vote");
+}
+}
